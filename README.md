@@ -1,3 +1,4 @@
 hoge
 bomb
 lucky
+happy
